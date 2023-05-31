@@ -1,0 +1,40 @@
+/* Variables */
+/* :root() */
+/* ANIMATIONS */
+
+
+
+
+/* GLOBAL STYLES/CLASSES */
+
+.header h1 {
+    background-color: #b2b9be;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    font-size: 48px;
+}
+
+.hero {
+    background-image: url( https://picsum.photos/id/870/200/300?grayscale&blur=2);
+    align-items: center;
+    background-size: unset;
+    background-repeat: no-repeat;
+}
+    
+
+
+
+
+/* CUSTOM STYLES */
+
+.link-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .link-container a {
+    text-decoration: none;
+    color: #f54d4d; 
+    margin-right: 10px; 
+  }
