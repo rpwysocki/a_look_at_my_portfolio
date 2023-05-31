@@ -16,10 +16,11 @@
 }
 
 .hero {
-    background-image: url( https://picsum.photos/id/870/200/300?grayscale&blur=2);
-    align-items: center;
-    background-size: unset;
+    
+    align-items: center, top;
+    background-size: 100%;
     background-repeat: no-repeat;
+    background-image: url( https://picsum.photos/id/870/200/300?grayscale&blur=2);
 }
     
 
@@ -37,4 +38,23 @@
     text-decoration: none;
     color: #f54d4d; 
     margin-right: 10px; 
+  }
+
+  .about_me {
+    font-size: 24px;
+    text-decoration: none;
+    color: #664df5;
+  }
+
+  .portfolio {
+    font-size: 24px;
+    text-decoration: none;
+    color: #664df5;
+  }
+
+
+  .contact {
+    font-size: 24px;
+    text-decoration: none;
+    color: #664df5; 
   }
